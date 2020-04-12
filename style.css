@@ -1,0 +1,77 @@
+@page {
+	size: A4;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #eee;
+}
+
+.page {
+	box-sizing: border-box;
+	width: 210mm;
+	height: 297mm;
+	margin: auto;
+	padding: 10mm 20mm;
+	background: #fff;
+	page-break-after: always;
+}
+
+* {
+	clear: both;
+	margin: 0;
+	padding: 0;
+	color: black;
+	font-family: serif;
+	font-size: 1em;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	line-height: 1.2;
+}
+
+h1, h2, h3, h4 {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	margin: 1em 0 0.5em 0;
+	border-bottom: 1px solid black;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+p + h3, ul + h3 {
+	margin-top: 1em;
+}
+
+em {
+	float: right;
+}
+
+h4 {
+	float: left;
+}
+
+h4 + * {
+	clear: none;
+}
+
+h1 + ul li {
+	display: inline-block;
+}
+
+p, ul li {
+	margin-left: 2em;
+	text-align: justify;
+}
+
+h4 + p {
+	margin-left: 8em;
+}
