@@ -1,0 +1,7 @@
+# Ignore generated files
+*.html
+*.pdf
+
+# Ignore dist files
+resume/
+*.tar*
