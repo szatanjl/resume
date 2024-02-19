@@ -10,13 +10,15 @@ Jakub Leszczak
 Work Experience
 ---------------
 
-### Senior Rust Backend Developer & Teamlead                *Aug 2022 -*
-### BeyondPlay                                          *Remote, Europe*
+### Senior Rust Backend Developer & Project Leader          *Aug 2022 -*
+### BeyondPlay (acquired by FanDuel)                    *Remote, Europe*
 
 - Built Jackpots product for online gambling following strict
   regulations and certification process
-- Closely worked with clients: LeoVegas, Casumo, ComeOn, Pixelbet
+- Closely worked with clients: LeoVegas, Casumo, ComeOn, Delasport,
+  FanDuel
 - Took full responsibility over the product and leading the project
+- Startup got acquired by FanDuel
 
 (Rust, TypeScript, Node.js, React; MongoDB, Redis; Docker;
  CI/CD - Github Actions)
