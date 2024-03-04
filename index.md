@@ -18,7 +18,7 @@ Work Experience
 - Closely worked with clients: LeoVegas, Casumo, ComeOn, Delasport,
   FanDuel
 - Took full responsibility over the product and leading the project
-- Startup got acquired by FanDuel
+- Startup got acquired by FanDuel in February 2024
 
 (Rust, TypeScript, Node.js, React; MongoDB, Redis; Docker;
  CI/CD - Github Actions)
