@@ -7,14 +7,15 @@ Jakub Leszczak
 - [github.com/szatanjl]
 - [linkedin.com/in/jakub-leszczak]
 
+
 Work Experience
 ---------------
 
-### Senior Rust Backend Developer & Project Leader          *Aug 2022 -*
+### Senior Rust Backend Developer & Project Leader *Aug 2022 - Apr 2024*
 ### BeyondPlay (acquired by FanDuel)                    *Remote, Europe*
 
-- Built Jackpots product for online gambling following strict
-  regulations and certification process
+- Built Jackpots product following strict gambling regulations and
+  certification process
 - Closely worked with clients: LeoVegas, Casumo, ComeOn, Delasport,
   FanDuel
 - Took full responsibility over the product and leading the project
@@ -51,45 +52,25 @@ Work Experience
 - Developed U-Boot and Linux projects to support LTE and 5G BTS products
 - Performed hardware bringups - implemented initial software for first
   OS bootup
+<!--
 - Debugged hardware using oscilloscope and JTAG (Lauterbach, OpenOCD)
+-->
 
 (C, Shell, Python; U-Boot, Linux; Kbuild, Yocto; mbedTLS; I2C, SPI)
 
 ### C++ Software Engineer                          *Nov 2015 - Jan 2017*
 ### Teleste                                            *Wrocław, Poland*
 
-- Developed surveillance monitoring system used by many clients like:
-  Paris police, Asfinag (Austrian roads monitoring), Finish trains
+- Developed surveillance system used by many clients, i.e.
+  Asfinag, Paris police, Finish trains
 - Developed distributed, multithreaded software in C++ able to withstand
   load of tens of thousands of recording cameras scattered across entire
   countries
-- Worked with many network protocols and libraries
-  (Mongoose, gSOAP, cURL)
 - Developed scalable statistics database handling 100,000 records
   a minute
 
 (C++, Python; PostgreSQL; WebSocket, HTTP, JSON-RPC, RTP/RTSP, SOAP)
 
-<!--
-### PHP Developer                                  *Sep 2014 - Nov 2014*
-### PGS Software                                       *Wrocław, Poland*
-
-- Implemented website visualizing statistical data for UK fitness center
-
-(PHP, Symfony; JavaScript, AngularJS, jQuery; MySQL)
--->
-
-</div><div class="page">
-
-Projects
---------
-
-### Suckless desktop environment              *[github.com/szatanjl/de]*
-
-Lightweight X11 (Linux) desktop environment based on [suckless.org]
-software.
-
-(C, X11, Linux)
 
 Education
 ---------
@@ -97,9 +78,9 @@ Education
 ### BSc. Computer Science
 ### Wrocław University of Technology
 
+<!--
 Thesis: Fluid Mechanics Computer Simulation  *[github.com/szatanjl/thesis]*
 
-<!--
 - Implemented fluid mechanics simulation using C++ and OpenGL
 - Written paper describing discretization of Navier-Stokes equations and
   simulation algorithms
@@ -107,36 +88,25 @@ Thesis: Fluid Mechanics Computer Simulation  *[github.com/szatanjl/thesis]*
 (C++, OpenGL, LaTeX)
 -->
 
+
 Skills
 ------
 
+#### Programming
+
+Rust, TypeScript, Node.js, C, C++, Shell, Bash, Python
+
 #### Web
 
-Rust, TypeScript, Node.js
+REST, WebSocket, \*RPC, PostgreSQL, MongoDB, Redis, Docker
 
 #### Embedded
 
-Rust, C, C++, Shell, Bash; Linux, U-Boot; DoIP, UDS, I2C, SPI, CAN
-
-#### Networking
-
-HTTP, REST, WebSocket, JSON-RPC, BSD sockets API
+Linux, U-Boot, Yocto; BSD sockets API, DoIP, UDS, I2C, SPI, CAN
 
 #### Cryptography
 
 libsodium, GnuPG, OpenSSL, mbedTLS
-
-#### Build Systems
-
-Make, Kbuild, CMake, Yocto, Cargo, npm, Yarn
-
-#### Databases
-
-PostgreSQL, MongoDB, Redis, MySQL/MariaDB
-
-#### Other
-
-Docker, GitHub Actions, Python
 
 #### Languages
 
@@ -145,6 +115,3 @@ English (fluent), Polish (native)
 
 [github.com/szatanjl]: https://github.com/szatanjl
 [linkedin.com/in/jakub-leszczak]: https://linkedin.com/in/jakub-leszczak
-[github.com/szatanjl/de]: https://github.com/szatanjl/de
-[suckless.org]: https://suckless.org
-[github.com/szatanjl/thesis]: https://github.com/szatanjl/thesis
