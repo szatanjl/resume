@@ -61,6 +61,8 @@ Work Experience
 ### C++ Software Engineer                          *Nov 2015 - Jan 2017*
 ### Teleste                                            *Wrocław, Poland*
 
+<!-- TODO: Dopisz ze to bylo na Windowsie, WinAPI itp -->
+
 - Developed surveillance system used by many clients, i.e.
   Asfinag, Paris police, Finish trains
 - Developed distributed, multithreaded software in C++ able to withstand
