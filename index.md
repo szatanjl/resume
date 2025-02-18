@@ -14,13 +14,14 @@ Work Experience
 ### Senior Rust Developer                                   *Aug 2024 -*
 ### Golem Factory                                       *Remote, Europe*
 
-- Contributed to the core Golem open source project that aims to create
-  a platform where everyone can use and share computing power resources
-  in a decentralized way
+- Contributed to the core Golem open source project (yagna) that aims to
+  create a platform where everyone can use and share computing power
+  resources in a decentralized way ([www.golem.network])
+- Found and fixed bugs in the existing network protocol
 - Researched and started implementation of P2P protocol to integrate
   into the project: iroh, WebRTC-rs, Rings Network
 
-(Rust, TypeScript, Node.js, WebRTC-rs, iroh)
+(Rust, TypeScript, Node.js; WebRTC-rs, iroh; Solidity, Hardhat)
 
 ### Senior Rust Backend Developer & Project Leader *Aug 2022 - Apr 2024*
 ### BeyondPlay (acquired by FanDuel)                    *Remote, Europe*
@@ -104,11 +105,11 @@ Skills
 
 #### Programming
 
-Rust, TypeScript, Node.js, C, C++, Shell, Bash, Python
+Rust, TypeScript, Node.js, C, C++, Shell, Bash, Python, Solidity
 
 #### Web
 
-REST, WebSocket, \*RPC, PostgreSQL, MongoDB, Redis, Docker
+Docker, PostgreSQL, MongoDB, Redis, REST, WebSocket, \*RPC
 
 #### Embedded
 
@@ -120,9 +121,10 @@ libsodium, GnuPG, OpenSSL, mbedTLS
 
 #### Languages
 
-English (fluent), Polish (native)
+English (fluent, C1/C2), Polish (native)
 
 
 [github.com/szatanjl]: https://github.com/szatanjl
 [github.com/szatanjl/thesis]: https://github.com/szatanjl/thesis
 [linkedin.com/in/jakub-leszczak]: https://linkedin.com/in/jakub-leszczak
+[www.golem.network]: https://www.golem.network
