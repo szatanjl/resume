@@ -11,15 +11,12 @@ Jakub Leszczak
 Work Experience
 ---------------
 
-### Senior Rust Developer                                   *Aug 2024 -*
+### Senior Rust Developer                                   *Sep 2024 -*
 ### Golem Factory                                       *Remote, Europe*
 
-- Contributed to the core Golem open source project (yagna) that aims to
-  create a platform where everyone can use and share computing power
-  resources in a decentralized way ([www.golem.network])
-- Found and fixed bugs in the existing network protocol
-- Researched and started implementation of P2P protocol to integrate
-  into the project: iroh, WebRTC-rs, Rings Network
+- Contributed to the core Golem open source project that aims to create
+  a platform where everyone can use and share computing power resources
+  in a decentralized way ([www.golem.network])
 
 (Rust, TypeScript, Node.js; WebRTC-rs, iroh; Solidity, Hardhat)
 
